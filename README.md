@@ -1,7 +1,7 @@
 ### 
 
 
-**skhellou/skhellou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**능동적으로 움직이자
 
 
 
